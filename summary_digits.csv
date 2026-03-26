@@ -1,0 +1,7 @@
+Model,Dataset,Accuracy,Precision,Recall,F1-Score,ROC-AUC,Train Time (s)
+SVM (Linear),Digits,0.9750,0.9754,0.9750,0.9749,0.9969,0.0184
+SVM (RBF),Digits,0.9750,0.9759,0.9750,0.9749,0.9932,0.0300
+SVM (Polynomial),Digits,0.9722,0.9760,0.9722,0.9731,0.9990,0.0363
+Decision Tree,Digits,0.8222,0.8226,0.8222,0.8213,0.9196,0.0126
+Random Forest,Digits,0.9639,0.9644,0.9639,0.9636,0.9989,0.1171
+Gradient Boosting,Digits,0.9639,0.9647,0.9639,0.9637,0.9907,8.2006
